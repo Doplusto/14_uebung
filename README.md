@@ -205,7 +205,7 @@ Erklären Sie, was der Empfänger machen müsste um zu überprüfen, dass die CR
 Bei einem Generatorpolynom vom Grad 3 hängt man zunächst 3 0er Bits an die Bitfolge von D=01101010101 an und dividiert dann durch das Generatorpolynom, im konkreten Fall: 
 
 ```
-01101010101000  : 1001 = 110011001
+01101010101000
  1001
   1000
   1001
