@@ -77,14 +77,6 @@ x |	y |	Übertrag c |	Summe s|
 
 ### b)
 
-Formen Sie folgende Schaltfunktion so um, daß sie aus schließlich mit NAND-Schaltgliedern realisiert werden kann:
-
-![](./img/f1.png)
-
-**Lösung**
-
-### c)
-
 1. Ermittle für die angegebene Schaltung die zugehörige Schaltgleichung. Vereinfache diese anschließend weitestmöglich.
 
 ![](./img/schaltung.png)
