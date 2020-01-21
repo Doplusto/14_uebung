@@ -55,7 +55,7 @@ Skizzieren Sie das Schaltnetz eines **Halbaddierer** und schreiben Sie die Werte
 2. Formen Sie die vereinfachte Schaltgleichung so um, dass sie nur eine Sorte Logikgatter enthält.
 
 
-## Aufgabe 4: Betriebssysteme (3P + 5P + 7P)
+## Aufgabe 4: Betriebssysteme (3P + 7P)
 
 ### a)
 
