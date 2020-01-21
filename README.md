@@ -38,7 +38,7 @@ Wie hoch ist die **Hitrate** und die **Missrate**?
 Wie sieht die Cache Belegung jeweils bei 5 Plätzen aus?
 Wie hoch ist die **Hitrate** und die **Missrate**?
 
-## Aufgabe 3: Schaltnetze (3P + 5P + 7P)
+## Aufgabe 3: Schaltnetze (3P + 7P)
 
 ### a)
 
@@ -46,12 +46,6 @@ Skizzieren Sie das Schaltnetz eines **Halbaddierer** und schreiben Sie die Werte
 
 
 ### b)
-
-Formen Sie folgende Schaltfunktion so um, daß sie aus schließlich mit NAND-Schaltgliedern realisiert werden kann:
-
-![](./img/f1.png)
-
-### c)
 
 1. Ermittle für die angegebene Schaltung die zugehörige Schaltgleichung. Vereinfache diese anschließend weitestmöglich.
 
